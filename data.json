@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 2,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 3,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 4,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 5,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 6,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 7,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 8,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 9,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 10,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 11,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 12,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 13,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 14,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 15,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": 16,
+    "title": "The title and onPress handler are required. It is recommended to set accessibilityLabel to help make your app usable by everyone.",
+    "category": "Fashion",
+    "time": "8",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  }
+]
