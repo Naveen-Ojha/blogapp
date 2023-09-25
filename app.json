@@ -32,6 +32,11 @@
       "eas": {
         "projectId": "cf5b2816-dc8f-4019-86ba-acdb175d59f1"
       }
-    }
+    },
+    "plugins": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/perf",
+      "@react-native-firebase/crashlytics"
+    ]
   }
 }
